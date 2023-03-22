@@ -1,7 +1,7 @@
 ## Call Me Majko
 
 <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api?username=MajkoAutomato&show_icons=true&theme=tokyonight" />
-<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajkoAutomato&layout=compact" />
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
